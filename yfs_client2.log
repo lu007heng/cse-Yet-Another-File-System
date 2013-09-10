@@ -1,0 +1,35 @@
+unique: 1, opcode: INIT (26), nodeid: 0, insize: 56
+INIT: 7.13
+flags=0x0000007b
+max_readahead=0x00020000
+   INIT: 7.8
+   flags=0x00000000
+   max_readahead=0x00020000
+   max_write=0x00020000
+   unique: 1, error: 0 (Success), outsize: 40
+138777973:	client 127.0.0.1:44898 begin to give back
+138777973:	client 127.0.0.1:44898, end to give back
+138778974:	client 127.0.0.1:44898 begin to give back
+138778974:	client 127.0.0.1:44898, end to give back
+138779976:	client 127.0.0.1:44898 begin to give back
+138779976:	client 127.0.0.1:44898, end to give back
+138780980:	client 127.0.0.1:44898 begin to give back
+138780980:	client 127.0.0.1:44898, end to give back
+138781981:	client 127.0.0.1:44898 begin to give back
+138781981:	client 127.0.0.1:44898, end to give back
+138782982:	client 127.0.0.1:44898 begin to give back
+138782982:	client 127.0.0.1:44898, end to give back
+138783983:	client 127.0.0.1:44898 begin to give back
+138783983:	client 127.0.0.1:44898, end to give back
+138784984:	client 127.0.0.1:44898 begin to give back
+138784984:	client 127.0.0.1:44898, end to give back
+138785986:	client 127.0.0.1:44898 begin to give back
+138785986:	client 127.0.0.1:44898, end to give back
+138786991:	client 127.0.0.1:44898 begin to give back
+138786991:	client 127.0.0.1:44898, end to give back
+138788006:	client 127.0.0.1:44898 begin to give back
+138788006:	client 127.0.0.1:44898, end to give back
+138789008:	client 127.0.0.1:44898 begin to give back
+138789008:	client 127.0.0.1:44898, end to give back
+unique: 2, opcode: FORGET (2), nodeid: 1, insize: 48
+umount: /home/cse/lab/yfs2: not mounted
